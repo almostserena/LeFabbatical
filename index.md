@@ -1,13 +1,14 @@
-## Welcome to GitHub Pages
+## Week 1: Moving to Fondation Suisse CIUP
 
 You can use the [editor on GitHub](https://github.com/almostserena/LeFabbatical/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Week 1: FabAcademy Module - Electronics production at FabLab Digiscope
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+What I learned
+1. Numbered
+2. List
 ```markdown
 Syntax highlighted code block
 
