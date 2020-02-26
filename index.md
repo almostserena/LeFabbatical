@@ -11,7 +11,7 @@ Fablab Digiscope is the fabrication laboratory of Université Paris Saclay. All 
 This is one of the few labs in France running a complete fabacademy, the distributed academy of the FabLab Network.
 Head of the lab is Romain di Vozzo. [Jonah Marss] (https://www.marrs.io) is the fabmanager and fabAcademy instructor. Jonah is a great tutor and it makes great projects. 
 
-![FabLab Digiscope](https://images.app.goo.gl/FspmjqL8dw7fU5Yt5)
+![FabLab Digiscope](http://www.digiscope.fr/content/2-platforms/11-fablab/logo_0_big.png)
 
 
 ## Are.na repository
