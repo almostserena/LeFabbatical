@@ -29,7 +29,7 @@ However, I learned many things:
 - checking that there are not connections between traces that are not supposed to be connected (use the multimeter with the bip on)
 
 **1. Soldering (and soldering management process)**
-- writing down a list of components and put a piece of tape to stick on the super hyper tiny components. For this course we are using Surface mounted components (or SMD) 12o6
+- writing down a list of components and put a piece of tape to stick on the super hyper tiny components. For this course we are using Surface mounted components (or SMD) 12o6 (PICT 1)
 - selecting the components from the big catalogues/libraries of SMD and inc case there are components missing we choose the one that have the closes values (i.e. I took the 510 Ω because we did nto have the 499Ω).
 - reading correctly the schematic and the board image of [FabTinyISP](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/index.html). Quick note: learning how to read this image is already a great take away. Second note: the blue arrows indicate that the components have polarity. 
 - LEDs have polarity, resistors do not have polarity, small capacitors have no polarity (bit ones have polarity)
@@ -40,44 +40,31 @@ However, I learned many things:
 - Component after component, check if there are shorts (always using the multimeter with the bip on)
 - Final soldering: the usb traces. Put a lot of solder, but avoid to have traces with differt heights othewise it will not connect into the port.
 
+[Pict 1](https://drive.switch.ch/index.php/s/vAfRGCf0qe5Q96C)
+
 **3.Testing the Programmer**
 - In theory I got all steps. In practice, I did not install the software on my mac.
 - In conclusion, my PCB works nevertheless all components look burned.
 
 **4. Alternative manufacturing processes: copper tape and vynil cutter**
-- It is possible to make circuite with a vynil cutter. We used a vynil cutter Roland GS24.
-- First prepare the support for cutting: a plastic foil (height 1m), double side tape (not too strong), large copper tape. Stick the double side tape on the plastic piece, then the copper tape.
+- It is possible to make circuite with a vynil cutter. We used a vynil cutter Roland GS24
+- First prepare the support for cutting: a plastic foil (height 1m), double side tape (not too strong), large copper tape. Stick the double side tape on the plastic piece, then the copper tape
 - Set the machine: measure foil, set the zero, send file with the following settings: Pressure 90, Speed 10, pen force -1 (or 1.5)
-- 
+- Problems: removing the copper without damaging the circuit
 
-Resources and useful links (including the ones from Neil Gershenfeld's lecture)
+**Resources and useful links (including the notes from Neil Gershenfeld's lecture on Wednesday 19th Feb)**
+Emergingobjects.com
+Onshape
+http://digitalgastronomy.co/
+Hilbert curve recursive 
+algoMods.cba.mit.eduhttp://fab.cba.mit.edu/classes/863.17/Harvard/people/HonghaoDeng/
+Autoleveller.co.uk
+Suggestion techniquesjoint: non farli a 90gradi ma arrontondare sui lati
+1/10 of mm is good for a joint
+Materials (according to Neil is mandatory to have and use this:-))https://www.uline.com/BL_1855/Heavy-Duty-Corrugated-Pads
 
 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/almostserena/LeFabbatical/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
