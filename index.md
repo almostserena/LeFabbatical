@@ -1,7 +1,9 @@
 ## Week 1: Moving to Fondation Suisse CIUP
 
 I moved to Paris on 17th February. My temporary house ia cute room at Fondation SUISSE that is located at Cité Universitaire.
-The room is in a Le Corbusier's building. Realized between 1931 and 1933 by Le Corbusier and his cousin Jean Pierre Jeanneret. Internal decoration are by the Charlotte Perriand.
+The room is in a Le Corbusier's building. Realized between 1931 and 1933 by Le Corbusier and his cousin Jean Pierre Jeanneret. Internal decoration are by [Charlotte Perriand](https://en.wikipedia.org/wiki/Charlotte_Perriand).
+
+![Le Pavillion](http://www.fondationsuisse.fr/wp-content/uploads/2016/02/FS_Historique_Exterieur.jpg)
 
 ## Week 1: FabAcademy Module - Electronics production at FabLab Digiscope
 
