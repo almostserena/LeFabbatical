@@ -37,10 +37,13 @@ However, I learned many things:
 - soldering sequence: 1. put the tip 2. put the solder 3. remove the solder 4. remove the tip
 - soldering techniques: when solderin the chip, solder the uepper left leg and then the bottom right leg (to have it stable). More in general: put some solder on the trace, then solder one side of the component to attach it to the trace. Afterwards, stick the other side and add solder until it is not covering the entire copper trace (the one for that specific side/leg)
 - Start from inside to outside of the board, from small components to bigger and taller components, start from the chip.  
-- Component after component, check if there are shorts (always using the multimeter with the bip on)
-- Final soldering: the usb traces. Put a lot of solder, but avoid to have traces with differt heights othewise it will not connect into the port.
+- Component after component, check if there are shorts (always using the multimeter with the bip on) (PICT 2)
+- Final soldering: the usb traces. Put a lot of solder, but avoid to have traces with differt heights othewise it will not connect into the port. (PICT 3)
 
 [Pict 1](https://drive.switch.ch/index.php/s/vAfRGCf0qe5Q96C)
+[Pict 2](https://drive.switch.ch/index.php/s/9pT83aq1AhgUk8H)
+[Pict 3](https://drive.switch.ch/index.php/s/vAfRGCf0qe5Q96C)
+
 
 **3.Testing the Programmer**
 - In theory I got all steps. In practice, I did not install the software on my mac.
