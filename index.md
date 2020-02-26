@@ -1,8 +1,7 @@
 ## Week 1: Moving to Fondation Suisse CIUP
 
-You can use the [editor on GitHub](https://github.com/almostserena/LeFabbatical/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I moved to Paris on 17th February. My temporary house ia cute room at Fondation SUISSE that is located at Cité Universitaire.
+The room is in a Le Corbusier's building. Realized between 1931 and 1933 by Le Corbusier and his cousin Jean Pierre Jeanneret. Internal decoration are by the Charlotte Perriand.
 
 ## Week 1: FabAcademy Module - Electronics production at FabLab Digiscope
 
