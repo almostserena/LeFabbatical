@@ -9,7 +9,9 @@ The room is in a Le Corbusier's building. Realized between 1931 and 1933 by Le C
 Fablab Digiscope is the fabrication laboratory of Université Paris Saclay. All info about the lab are here
 ![here](https://fablabdigiscope.gitlab.io/)
 This is one of the few labs in France running a complete fabacademy, the distributed academy of the FabLab Network.
-Head of the lab is Romain di Vozzo. [Jonah Marss] (https://www.marrs.io) is the fabmanager and fabAcademy instructor. Jonah is a great tutor and it makes great projects. See the image below.
+Head of the lab is Romain di Vozzo. [Jonah Marss] (https://www.marrs.io) is the fabmanager and fabAcademy instructor. Jonah is a great tutor and it makes great projects. 
+
+![FabLab Digiscope](https://fablabdigiscope.gitlab.io/)
 
 
 ## Are.na repository
