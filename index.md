@@ -42,7 +42,7 @@ However, I learned many things:
 
 [Pict 1](https://drive.switch.ch/index.php/s/vAfRGCf0qe5Q96C)
 [Pict 2](https://drive.switch.ch/index.php/s/9pT83aq1AhgUk8H)
-[Pict 3](https://drive.switch.ch/index.php/s/vAfRGCf0qe5Q96C)
+[Pict 3](ImgGit/IMG_1151.JPG)
 
 
 **3.Testing the Programmer**
