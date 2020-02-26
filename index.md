@@ -51,6 +51,8 @@ However, I learned many things:
 **3.Testing the Programmer**
 - In theory I got all steps. In practice, I did not install the software on my mac.
 - In conclusion, my PCB works nevertheless all components look burned.
+- Important: before you connect to the laptop you make sure that there are no shorts otherwise you laptop can suffer a lot
+- Do not plug the programmer directly in the computer, use a USB extension
 
 **4. Alternative manufacturing processes: copper tape and vynil cutter**
 - It is possible to make circuite with a vynil cutter. We used a vynil cutter Roland GS24
