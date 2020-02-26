@@ -33,6 +33,7 @@ However, I learned many things:
 - selecting the components from the big catalogues/libraries of SMD and inc case there are components missing we choose the one that have the closes values (i.e. I took the 510 Ω because we did nto have the 499Ω).
 - reading correctly the schematic and the board image of [FabTinyISP](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/index.html). Quick note: learning how to read this image is already a great take away. Second note: the blue arrows indicate that the components have polarity. 
 - LEDs have polarity, resistors do not have polarity, small capacitors have no polarity (bit ones have polarity)
+- Negative polarity is always represented by some symbol on the components (i.e. line on one side of the capacitor, small dot on the chip)
 - Soldering best practices: use fume extractor (always!), clean the soldering iron tip, relax your amrs if you have problems like the ones I have (shacking hands).
 - soldering sequence: 1. put the tip 2. put the solder 3. remove the solder 4. remove the tip
 - soldering techniques: when solderin the chip, solder the uepper left leg and then the bottom right leg (to have it stable). More in general: put some solder on the trace, then solder one side of the component to attach it to the trace. Afterwards, stick the other side and add solder until it is not covering the entire copper trace (the one for that specific side/leg)
