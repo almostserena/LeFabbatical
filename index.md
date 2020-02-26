@@ -5,11 +5,16 @@ The room is in a Le Corbusier's building. Realized between 1931 and 1933 by Le C
 
 ![Le Pavillion](http://www.fondationsuisse.fr/wp-content/uploads/2016/02/FS_Historique_Exterieur.jpg)
 
-## Fabbing at FabLab Digiscope
+## FabLab Digiscope
 Fablab Digiscope is the fabrication laboratory of Université Paris Saclay. All info about the lab are here
 ![here](https://fablabdigiscope.gitlab.io/)
 This is one of the few labs in France running a complete fabacademy, the distributed academy of the FabLab Network.
-Head of the lab is Romain di Vozzo. [Jonah Marss] (https://www.marrs.io) is the fabmanager and fabAcademy instructor. Jonah is a great tutor. 
+Head of the lab is Romain di Vozzo. [Jonah Marss] (https://www.marrs.io) is the fabmanager and fabAcademy instructor. Jonah is a great tutor and it makes great projects. See the image below.
+
+
+## Are.na repository
+I list [here](https://www.are.na/almost-serena/le-fabbatical) the interesting references to projects and resources. 
+
 
 ## Week 1: FabAcademy Module - Electronics production 
 
@@ -54,15 +59,16 @@ However, I learned many things:
 - Problems: removing the copper without damaging the circuit
 
 **Resources and useful links (including the notes from Neil Gershenfeld's lecture on Wednesday 19th Feb)**
-Emergingobjects.com
-Onshape
-http://digitalgastronomy.co/
-Hilbert curve recursive 
-algoMods.cba.mit.eduhttp://fab.cba.mit.edu/classes/863.17/Harvard/people/HonghaoDeng/
-Autoleveller.co.uk
-Suggestion techniquesjoint: non farli a 90gradi ma arrontondare sui lati
-1/10 of mm is good for a joint
-Materials (according to Neil is mandatory to have and use this:-))https://www.uline.com/BL_1855/Heavy-Duty-Corrugated-Pads
+Emergingobjects.com. 
+Onshape. 
+http://digitalgastronomy.co/. 
+Hilbert curve recursive.  
+algoMods.cba.mit.eduhttp://fab.cba.mit.edu/classes/863.17/Harvard/people/HonghaoDeng/. 
+Autoleveller.co.uk. 
+Suggestion techniquesjoint: non farli a 90gradi ma arrontondare sui lati. 
+1/10 of mm is good for a joint. 
+Materials (according to Neil is mandatory to have and use this:-))https://www.uline.com/BL_1855/Heavy-Duty-Corrugated-Pads. 
+https://camotics.org/
 
 
 
