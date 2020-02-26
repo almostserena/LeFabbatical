@@ -9,7 +9,7 @@ The room is in a Le Corbusier's building. Realized between 1931 and 1933 by Le C
 Fablab Digiscope is the fabrication laboratory of Université Paris Saclay. All info about the lab are here
 ![here](https://fablabdigiscope.gitlab.io/)
 This is one of the few labs in France running a complete fabacademy, the distributed academy of the FabLab Network.
-Head of the lab is Romain di Vozzo. Jonah Marss is the fabmanager and fabacademy instructor. Jonah is a great tutor. 
+Head of the lab is Romain di Vozzo. [Jonah Marss] (https://www.marrs.io) is the fabmanager and fabAcademy instructor. Jonah is a great tutor. 
 
 ## Week 1: FabAcademy Module - Electronics production 
 
@@ -17,16 +17,13 @@ Overall goal of the week is to manufacture a PCB through a complete DIY process.
 Even if I got the point of the DIY approach to circuit making, I confirm that the learning outcome could be achieved without going through this hypertechnicality.
 
 However, I learned many things:
-1. Fiber Glass Laser cutting
-2. Soldering (and soldering management process)
-3. Testing a PCB
-4. Alternative manufacturing processes: copper tape cut
 
 **1. Fiber Glass Laser cutting**
-- Operating a laser cutter Epilog to engrave the circuit (fiberglass function) and cut its outline (CO2 function)
-- Cleaning the PCB
-- Removing the little hair generated during the engraving process (2 passes engraving would help with that)
-- checking that there are not connections between traces that are not supposed to be connected (use the multimeter with the bip on)
+- Operating a laser cutter Epilog to engrave the circuit (fiberglass function) and cut its outline (CO2 function) (PICT 1)
+- Cleaning the PCB and Removing the little hair generated during the engraving process (2 passes engraving would help with that) 
+- checking that there are not connectiooons between traces that are not supposed to be connected (use the multimeter with the bip on)
+
+[PICT 1] (https://drive.switch.ch/index.php/s/UWfzPDpUS6Kskyy)
 
 **1. Soldering (and soldering management process)**
 - writing down a list of components and put a piece of tape to stick on the super hyper tiny components. For this course we are using Surface mounted components (or SMD) 12o6 (PICT 1)
